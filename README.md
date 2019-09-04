@@ -1,7 +1,13 @@
 # Simple Python 3 Project Template
 
+# Features
+* Basic project structure what you can start using immediately.
+* Support of pytest.
+* Support of flake8.
+* Support of tox test runner.
+
 ## Prerequisites
-* python3, mysql server
+* python3
 
 # Setup guide
 *  Clone the repository
